@@ -1,2 +1,2 @@
 # fable-pc-app-release-test
-For testing autoupdate
+For testing autoupdate and distribute beta release.
